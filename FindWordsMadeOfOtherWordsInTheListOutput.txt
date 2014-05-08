@@ -1,0 +1,15 @@
+Loading the input file line by line as vector
+sorting the vector of strings
+Copying Vector to a Set
+Finding Words that are made of other words in the list
+
+>>>>>>>>>>>>>>>>>>>>>>
+5 longest words that are made of other words in the list are:
+ethylenediaminetetraacetates
+electroencephalographically
+ethylenediaminetetraacetate
+immunoelectrophoretically
+phosphatidylethanolamines
+-------------------------
+Total number of words that are made of other words in the list: 97107 out of all the elements in the input list 173530.
+<<<<<<<<<<<<<<<<<<<<<<
